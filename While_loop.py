@@ -5,7 +5,7 @@ while i <= 5:
     print(i)
     i = i + 1
 
-print("+"*10)
+print("-"*10)
 
 i = 1
 total = 0
