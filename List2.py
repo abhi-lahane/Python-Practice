@@ -15,6 +15,9 @@ print("-"*10)
 li.reverse()
 print(li)
 
+# reverse using slicing
+# print(li[::-1])
+
 print("-"*10)
 # revers list using for loop index
 li1 = [1,2,3,4,5]
